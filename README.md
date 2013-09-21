@@ -1,5 +1,5 @@
-2xLCD-Clock-Date-Temperature-Humidity
-=====================================
+2xLCD Clock-Date-Temperature-Humidity
+
 
 Using two 16x2 LCDs to display Clock, Date, Temperature and Humidity - Atmega8
 
